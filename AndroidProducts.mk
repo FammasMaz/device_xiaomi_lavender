@@ -23,9 +23,9 @@
 
 # Inherit Redmi Note 7 device config
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/corvus_lavender.mk
+    $(LOCAL_DIR)/hentai_lavender.mk
 
 COMMON_LUNCH_CHOICES := \
-    corvus_lavender-eng \
-    corvus_lavender-userdebug \
-    corvus_lavender-user
+    hentai_lavender-eng \
+    hentai_lavender-userdebug \
+    hentai_lavender-user

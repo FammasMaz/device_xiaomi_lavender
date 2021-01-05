@@ -93,9 +93,9 @@ PRODUCT_COPY_FILES += \
 # Vendor files
 $(call inherit-product, vendor/xiaomi/lavender/lavender-vendor.mk)
 
-# corvus DEVICE
-PRODUCT_NAME := corvus_lavender
+# hentai DEVICE
+PRODUCT_NAME := hentai_lavender
 PRODUCT_DEVICE := lavender
-PRODUCT_MODEL := Redmi Note 7 (corvus)
+PRODUCT_MODEL := Redmi Note 7 (hentai)
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MANUFACTURER := Xiaomi
